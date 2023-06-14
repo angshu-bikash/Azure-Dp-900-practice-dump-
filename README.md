@@ -1,2 +1,2 @@
 # Azure-Dp-900-practice-dump
-Important and basix questions to practice. May will help others too
+Important and basic questions to practice. May help others too
